@@ -1,6 +1,6 @@
 from settings import *
 from support import *
-from timer import Timer
+from timer import Timer # type: ignore
 from monster import *
 from random import choice
 from ui import *
